@@ -19,3 +19,9 @@ h2 {
   margin: 0 auto;
   padding: 30px 60px;
 }
+
+.footer {
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
